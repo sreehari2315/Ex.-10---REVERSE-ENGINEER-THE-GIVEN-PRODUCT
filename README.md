@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![23](https://github.com/sreehari2315/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139331590/5b85ab2e-8354-4133-a3ea-c4bf7bc5c8e0)
 
 ### Output:
+![Screenshot 2023-12-16 161512](https://github.com/sreehari2315/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139331590/f2c0af98-3a55-4d9b-bfbb-5ebf92c5a8a5)
+![Screenshot 2023-12-16 161903](https://github.com/sreehari2315/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139331590/63420698-22cd-48e9-9a95-68fa6dc55578)
 
 
-### Name:
-### Register Number:
+### Name:SREE HARI K
+### Register Number:212223230212
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
